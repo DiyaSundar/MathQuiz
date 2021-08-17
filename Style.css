@@ -1,0 +1,22 @@
+body{
+    background-color: #f6e7ff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #004e66
+}
+
+button{
+    background-color: rgb(255, 240, 221);
+    border-radius: 15%;
+    border-color: rgb(255, 231, 201);
+    border-style: double;
+}
+
+div{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #004e66;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
